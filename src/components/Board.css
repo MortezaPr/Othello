@@ -1,0 +1,29 @@
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  table-layout: fixed;
+}
+
+td {
+  width: 5em;
+  height: 5em;
+  border: 0.5px solid #181818;
+  border-radius: 0;
+  background-color: #54B435;
+}
+
+td:hover {
+  background-color: #FED049;
+}
+
+.turn {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 500;
+  text-align: center;
+  color: #181818;
+}
+
+
