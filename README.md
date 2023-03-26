@@ -2,7 +2,7 @@
 
 🕹️  Othello Game Implementation in React.
 
-![start](./screenshots/start.png)
+![start](./public/start.png)
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project is an implementation of the classic board game Othello (also known 
 The game is played on an 8x8 board, where two players take turns placing pieces on the board. The goal of the game is to have the most pieces
 of your color on the board when the game ends.
 
-![end](./screenshots/end.png)
+![end](./public/end.png)
 
 ## Getting Started
 
