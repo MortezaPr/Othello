@@ -2,15 +2,11 @@
 
 🕹️  Othello Game Implementation in React.
 
-![start](./public/start.png)
-
 ## Overview
 
 This project is an implementation of the classic board game Othello (also known as Reversi) in React.
 The game is played on an 8x8 board, where two players take turns placing pieces on the board. The goal of the game is to have the most pieces
 of your color on the board when the game ends.
-
-![end](./public/end.png)
 
 ## Getting Started
 
